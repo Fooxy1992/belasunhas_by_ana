@@ -1,0 +1,6 @@
+{
+  "name": "Belas Unhas By Ana",
+  "description": "Website moderno, elegante e feminino para o salão Belas Unhas By Ana na Marinha Grande. Especializado em unhas e estética.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
